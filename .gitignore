@@ -1,0 +1,14 @@
+# Created by http://www.gitignore.io
+
+### NetBeans ###
+nbproject/
+
+###CKEditor###
+ckeditor/
+
+###.idea####
+.idea/
+
+# Ignore Mac DS_Store files
+.DS_Store
+php-cs-fixer.phar
